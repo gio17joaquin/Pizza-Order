@@ -1,0 +1,24 @@
+#frmMenu {
+	margin: 0% auto;
+	width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	border-radius: 25px;
+}
+
+div {
+    color: white;
+}
+
+#showText1 {
+float: left;
+}
+
+#showText2 {
+	float: right;
+}
+
+
